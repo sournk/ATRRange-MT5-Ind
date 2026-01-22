@@ -39,3 +39,6 @@
 
 # debug information files
 *.dwo
+ATRRange-MT5-Ind.ex5
+.gitignore
+.DS_Store
